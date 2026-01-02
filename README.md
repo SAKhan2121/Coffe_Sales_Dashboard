@@ -1,4 +1,4 @@
-#Coffee Sales Dashboard – Excel Project
+# Coffee Sales Dashboard – Excel Project
 📌 Project Overview
 This project showcases an end‑to‑end Excel workflow to build a dynamic, interactive Coffee Sales Dashboard from raw transactional data.
 
