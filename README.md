@@ -42,6 +42,9 @@ Timeline Filter: Dynamic date range selection across all dashboards
 Slicers: Roast Type, Package Size, Loyalty Card Status, Region
 Report Connections: All filters synchronized across 4+ dashboards
 
+<img width="1220" height="615" alt="Screenshot 2026-01-02 224110" src="https://github.com/user-attachments/assets/734d95fa-6800-484d-a5c6-cbf83403b439" />
+
+
 # 📈 Data Processing & Dashboard Build Steps:
 
 Step 1: Data Integration & Structuring
