@@ -12,7 +12,7 @@ Fields: Order ID, Order Date, Customer ID, Product ID, Quantity Customers Table,
 Remove duplicate records from all tables.
 Standardize date formats and text fields (country, coffee type, roast).
 Convert data ranges to Excel Tables for dynamic ranges.
-Create a clean Orders master table that will feed all analyses.
+Created a clean Orders master table that will feed all analyses.
 
 3️⃣ Data Enrichment (Lookups)
 Use XLOOKUP to bring customer details (Name, Email, Country, Loyalty) into the Orders table.
@@ -45,7 +45,7 @@ Hide gridlines, formula bar, headings, and (optionally) scroll bars for a focuse
 8️⃣ Files in This Repository
 Coffee_Dashboard.xlsx – Final interactive dashboard.
 Raw_Data.xlsx or /data/ – Source Orders, Customers, Products tables.
-README.md – Project description and build steps (this file).
+README.md – Project description and build steps.
 
 9️⃣ How to Use
 Download and open the Excel file.
