@@ -1,4 +1,4 @@
-Coffee Sales Dashboard — Excel Project Analysis
+# Coffee Sales Dashboard — Excel Project Analysis
 Hello, Everyone! ☕
 
 I'm excited to share my latest project in the Data Analytics & Business Intelligence domain, focused on Building an Interactive Coffee Sales Dashboard using advanced Excel techniques for data-driven decision-making.
