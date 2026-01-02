@@ -139,3 +139,6 @@ Hidden formula bar (Options → Advanced)
 Hidden scroll bars & sheet tabs
 Hidden row/column headers
 Result: Clean, focused interface where only filters and analytics are visible.
+
+## Conclusion
+This project demonstrates how raw coffee sales data from multiple tables can be transformed into a clean, centralized Excel model and an interactive dashboard. The final solution lets stakeholders explore sales trends by time, coffee type, country, package size, and loyalty status using pivot tables, charts, slicers, and a timeline. It highlights skills in data cleaning, lookup formulas, data modeling, and dashboard design, and can be extended or adapted for other retail analytics scenarios.
