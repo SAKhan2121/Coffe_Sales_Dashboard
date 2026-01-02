@@ -4,9 +4,9 @@ This project showcases an end‑to‑end Excel workflow to build a dynamic, inte
 
 1️⃣ Data Sources
 Orders Table
-Fields: Order ID, Order Date, Customer ID, Product ID, Quantity Customers Table
-Fields: Customer ID, Name, Email, Country, City, Loyalty Card Status Products Table
-Fields: Product ID, Coffee Type, Roast Type, Size, Unit Price, Profit
+Fields: Order ID, Order Date, Customer ID, Product ID, Quantity Customers Table,
+ Customer ID, Name, Email, Country, City, Loyalty Card Status Products Table,
+ Product ID, Coffee Type, Roast Type, Size, Unit Price, Profit.
 
 2️⃣ Data Preparation & Cleaning
 Remove duplicate records from all tables.
