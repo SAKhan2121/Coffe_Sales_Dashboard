@@ -4,10 +4,10 @@ Hello, Everyone! ☕
 I'm excited to share my latest project in the Data Analytics & Business Intelligence domain, focused on Building an Interactive Coffee Sales Dashboard using advanced Excel techniques for data-driven decision-making.
 
 # 🎯 Project Context
-Scenario: Coffee retail company with multi-country operations (US, Ireland, UK)
-Challenge: Disconnected sales data across Orders, Customers, and Products tables with no unified view
-Goal: Enable leadership to explore sales trends, customer behavior, and product performance through a single interactive dashboard
-Scope: Consolidate 3+ data sources, transform raw data, and build self-service BI analytics
+Scenario: Coffee retail company with multi-country operations (US, Ireland, UK).
+Challenge: Disconnected sales data across Orders, Customers, and Products tables with no unified view.
+Goal: Enable leadership to explore sales trends, customer behavior, and product performance through a single interactive dashboard.
+Scope: Consolidate 3+ data sources, transform raw data, and build self-service BI analytics.
 
 # 🎪 Objective
 Build an interactive Power BI-style dashboard in Excel for real-time sales exploration
