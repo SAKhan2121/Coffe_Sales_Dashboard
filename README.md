@@ -9,16 +9,16 @@ Challenge: Disconnected sales data across Orders, Customers, and Products tables
 Goal: Enable leadership to explore sales trends, customer behavior, and product performance through a single interactive dashboard
 Scope: Consolidate 3+ data sources, transform raw data, and build self-service BI analytics
 
-#🎪 Objective
+# 🎪 Objective
 Build an interactive Power BI-style dashboard in Excel for real-time sales exploration
 Identify high-performing coffee types and customer segments for targeted strategy
 Align product portfolio (roast types, package sizes) with customer demand patterns
 Enable data-driven decisions on product mix and regional marketing focus
 
-#🛠️ Tools Used
+# 🛠️ Tools Used
  Excel | Data Transformation | Pivot Tables & Charts
 
-#📊 Dashboard Overview
+# 📊 Dashboard Overview
 1. Login Page / Navigation Hub
 Central control dashboard with visual navigation
 Quick access to all analytical modules
@@ -45,41 +45,7 @@ Timeline Filter: Dynamic date range selection across all dashboards
 Slicers: Roast Type, Package Size, Loyalty Card Status, Region
 Report Connections: All filters synchronized across 4+ dashboards
 
-#🔍 Insights & Recommendations
-
-#🎯 Target Segment
-Focus on customers aged 25-34 (~37%) and Emerging Affluent (₹40K–₹80K, ~68%) professionals
-Highest credit card adoption and spending propensity
-Strong response to premium product positioning
-Optimal for credit card partnerships & exclusive loyalty programs
-
-#💰 Spending Potential
-~30% of customers spend >50% of their income — prime candidates for premium tier benefits
-Tailor post-purchase upsell and financial products offers
-High lifetime value segment if properly engaged
-
-#🌍 City Trends
-UK leads in volume & spend; USA lags — customize regional campaigns by city performance
-High variation in regional preferences suggests localized product mix optimization
-Opportunity: Run targeted city-specific promotions
-
-#🛍️ Spending Categories Lead
-Bills & Groceries dominate → Leverage for everyday spending narratives
-Food, Apparel, Entertainment show secondary strength → Bundle offerings opportunity
-Category insights inform co-branded partnerships and loyalty rewards
-
-#💳 Payment Trends
-Credit Cards dominate (41%), but UPI surge among <25-age group → bimodal customer base
-Integrate credit card rewards with UPI-based platforms
-Offer dual payment incentives to capture both segments
-
-#📈 Growth Areas
-Launch co-branded credit cards aligned with customer spending profiles (Coffee + Lifestyle)
-Business credit cards for emerging entrepreneurs (high spending, category diversification)
-Premium tier benefits: Exclusive coffee blends, priority delivery, lounge access
-UPI integration: Digital-first younger customers need seamless payment experience
-
-#📈 Data Processing & Dashboard Build Steps:
+# 📈 Data Processing & Dashboard Build Steps:
 
 Step 1: Data Integration & Structuring
 Consolidated 3 data sources: Orders, Customers, Products tables
