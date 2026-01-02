@@ -4,7 +4,7 @@ Hello, Everyone! ☕
 I'm excited to share my latest project in the Data Analytics & Business Intelligence domain, focused on Building an Interactive Coffee Sales Dashboard using advanced Excel techniques for data-driven decision-making.
 
 # 🎯 Project Context
-Scenario: Coffee retail company with multi-country operations (US, Ireland, UK).
+Scenario: Coffee retail company with multi-country operations (US, Ireland, UK).</>
 Challenge: Disconnected sales data across Orders, Customers, and Products tables with no unified view.
 Goal: Enable leadership to explore sales trends, customer behavior, and product performance through a single interactive dashboard.
 Scope: Consolidate 3+ data sources, transform raw data, and build self-service BI analytics.
@@ -24,23 +24,12 @@ Central control dashboard with visual navigation
 Quick access to all analytical modules
 Executive summary metrics at a glance
 
-2. Demographics Analysis Dashboard
-Customer distribution by Age, Income, Occupation, Gender, and City
-Segment identification: Premium, Mid-tier, Budget customers
-Geographic heat-mapping of high-value customer concentrations
-
-3. Financial Behavior Analysis Dashboard
-Spending patterns by customer segment and roast type
-Payment preferences (credit card dominance vs. UPI adoption)
-Purchase frequency & seasonality trends
-Category-wise spending breakdown (Bills, Groceries, Apparel, Entertainment).
-
-4. Executive Dashboard
+2. Executive Dashboard
 KPI Summary: Total Sales, Avg Order Value, Customer Count, Repeat Purchase Rate
 Key metrics for decision-makers at a glance
 Drill-down capability into supporting dashboards
 
-5. Interactive Filtering System
+3. Interactive Filtering System
 Timeline Filter: Dynamic date range selection across all dashboards
 Slicers: Roast Type, Package Size, Loyalty Card Status, Region
 Report Connections: All filters synchronized across 4+ dashboards
