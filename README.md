@@ -3,7 +3,7 @@ Hello, Everyone! ☕
 
 I'm excited to share my latest project in the Data Analytics & Business Intelligence domain, focused on Building an Interactive Coffee Sales Dashboard using advanced Excel techniques for data-driven decision-making.
 
-# 🎯 Project Context
+## 🎯 Project Context
 **Scenario:**  
 Coffee retail company with multi-country operations (US, Ireland, UK).  
 
@@ -17,16 +17,16 @@ Enable leadership to explore sales trends, customer behavior, and product perfor
 Consolidate 3+ data sources, transform raw data, and build self-service BI analytics.
 
 
-# 🎪 Objective
+## 🎪 Objective
 Build an interactive Power BI-style dashboard in Excel for real-time sales exploration
 Identify high-performing coffee types and customer segments for targeted strategy
 Align product portfolio (roast types, package sizes) with customer demand patterns
 Enable data-driven decisions on product mix and regional marketing focus
 
-# 🛠️ Tools Used
+## 🛠️ Tools Used
  Excel | Data Transformation | Pivot Tables & Charts
 
-# 📊 Dashboard Overview
+## 📊 Dashboard Overview
 1. Login Page / Navigation Hub
 Central control dashboard with visual navigation
 Quick access to all analytical modules
@@ -42,10 +42,12 @@ Timeline Filter: Dynamic date range selection across all dashboards
 Slicers: Roast Type, Package Size, Loyalty Card Status, Region
 Report Connections: All filters synchronized across 4+ dashboards
 
+## DashBoard Image
+
 <img width="1220" height="615" alt="Screenshot 2026-01-02 224110" src="https://github.com/user-attachments/assets/734d95fa-6800-484d-a5c6-cbf83403b439" />
 
 
-# 📈 Data Processing & Dashboard Build Steps:
+## 📈 Data Processing & Dashboard Build Steps:
 
 Step 1: Data Integration & Structuring
 Consolidated 3 data sources: Orders, Customers, Products tables
